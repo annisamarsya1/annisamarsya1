@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**annisamarsya1/annisamarsya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Annisa Marsya</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Information Technology Student | Aspiring Web Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🎓 Student at Politeknik Negeri Padang
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 I'm an Information Technology student.
+- 💻 Interested in Web Development and Software Engineering.
+- 🌱 Currently improving my programming skills.
+- 🚀 Enjoy learning new technologies and building projects.
+- 🎯 Aspiring to become a Web Programmer.
+
+### 🛠️ Languages and Tools
+
+- PHP
+- Laravel
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Figma
+- Git & GitHub
+
+### 📌 My Interests
+
+- Web Development
+- Backend Development
+- Database Management
+- UI/UX Design
+
+### 📫 Connect With Me
+
+- GitHub: [@annisamarsya1](https://github.com/annisamarsya1)
+- Linkdln : www.linkedin.com/in/annisa-marsya-a685b1437
