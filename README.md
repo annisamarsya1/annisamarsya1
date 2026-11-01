@@ -1,42 +1,68 @@
+# Hi there! 👋 I'm Annisa Marsya
 
-<h1 align="center">Hi 👋, I'm Annisa Marsya</h1>
+### 💻 Informatics Management Student | Aspiring Web Developer
 
-<h3 align="center">Information Technology Student | Aspiring Web Developer</h3>
+I'm an Informatics Management student at **Politeknik Negeri Padang**, Indonesia, with a strong interest in Web Development and Software Development.
 
-<p align="center">
-  🎓 Student at Politeknik Negeri Padang
-</p>
+I enjoy learning new technologies, exploring programming concepts, and building web-based applications. I'm particularly interested in developing functional, user-friendly, and well-structured websites.
 
----
+### 🚀 About Me
 
-### 👩‍💻 About Me
+- 🎓 Informatics Management Student at Politeknik Negeri Padang.
+- 💻 Interested in Web Development and Software Development.
+- 🌱 Currently learning and improving my skills in Laravel, PHP, and JavaScript.
+- 🔍 Enjoy exploring new technologies and solving programming problems.
+- 🤝 Interested in collaborating on projects and learning from others.
+- 🎯 Aspiring to become a professional Web Developer.
 
-- 🎓 I'm an Information Technology student.
-- 💻 Interested in Web Development and Software Engineering.
-- 🌱 Currently improving my programming skills.
-- 🚀 Enjoy learning new technologies and building projects.
-- 🎯 Aspiring to become a Web Programmer.
+### 🛠️ Tech Stack & Tools
 
-### 🛠️ Languages and Tools
+**Programming Languages & Web Technologies**
 
 - PHP
-- Laravel
-- MySQL
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- SQL
 - Bootstrap
-- Figma
+
+**Frameworks & Libraries**
+
+- Laravel
+- Vue.js
+
+**Tools & Software**
+
+- Visual Studio Code
 - Git & GitHub
+- MySQL
+- phpMyAdmin
+- HeidiSQL
+- Figma
+- Postman / Insomnia
 
-### 📌 My Interests
+### 📂 Projects
 
-- Web Development
-- Backend Development
-- Database Management
-- UI/UX Design
+Some projects I've worked on during my learning journey:
 
-### 📫 Connect With Me
+- **Florion Petcare** – A web-based veterinary clinic management system.
+- **SIGAP Air Dingin** – A web-based Complaint and Aspiration Information System that allows users to submit complaints, track complaint history, and monitor complaint status.
+- **Inventory App** – A web-based application designed to manage inventory data and simplify the process of recording and monitoring stock.
+- **Mobile Kotlin MI2A** – A mobile application project developed using Kotlin as part of my mobile programming learning journey.
+- **Sistem Informasi PPDB Berbasis GIS** – A geographic information system for school admissions.
+- **TaskSync** – A web-based task and project management application.
+- **FLOREA** – A flower arrangement rental website built using WordPress and WooCommerce.
 
-- GitHub: [@annisamarsya1](https://github.com/annisamarsya1)
-- Linkdln : www.linkedin.com/in/annisa-marsya-a685b1437
+### 📈 Currently Focused On
+
+- Improving my backend development skills.
+- Learning more about REST API integration.
+- Understanding database management and system development.
+- Building real-world web applications.
+- Improving my problem-solving skills.
+
+### 🌐 Let's Connect!
+
+I'm always open to learning opportunities, sharing knowledge, and collaborating on interesting projects.
+
+**Thanks for visiting my GitHub profile!** 😊
