@@ -20,20 +20,22 @@ I enjoy learning new technologies, exploring programming concepts, and building 
 **Programming Languages & Web Technologies**
 
 - PHP
-- HTML5
-- CSS3
+- HTML
+- CSS
+- Dart
+- Kotlin
 - JavaScript
-- SQL
 - Bootstrap
 
-**Frameworks & Libraries**
+**Frameworks, Databases & Tools**
 
 - Laravel
-- Vue.js
-
-**Tools & Software**
-
+- Bootstrap
 - Visual Studio Code
+- QGIS
+- Flutter
+- WordPress
+- WooCommerce
 - Git & GitHub
 - MySQL
 - phpMyAdmin
@@ -62,6 +64,8 @@ Some projects I've worked on during my learning journey:
 - Improving my problem-solving skills.
 
 ### 🌐 Let's Connect!
+- https://www.linkedin.com/in/annisa-marsya-a685b1437/
+- Email : annisamarsya1@gmail.com
 
 I'm always open to learning opportunities, sharing knowledge, and collaborating on interesting projects.
 
